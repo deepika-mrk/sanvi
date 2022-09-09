@@ -4,5 +4,9 @@
         <members>helloMirketa</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>helloWorld</members>
+        <name>ApexClass</name>
+    </types>
     <version>55.0</version>
 </Package>
